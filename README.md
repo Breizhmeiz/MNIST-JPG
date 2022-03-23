@@ -9,9 +9,9 @@ author:
 
 ![](https://simplonline.co/_next/image?url=https%3A%2F%2Fsimplonline-v3-prod.s3.eu-west-3.amazonaws.com%2Fmedia%2Fimage%2Fpng%2Ff9abcac9-1e38-4c24-b681-7f46d393fe9c.png&w=1280&q=75)
 
-Fabio
-Morgan
-Romain
+- Fabio
+- Morgan
+- [Romain](Romain.ipynb)
 
 ## Partie 1 : Base de données, Analyse et Préparation
 
